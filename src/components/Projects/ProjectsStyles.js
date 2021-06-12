@@ -33,8 +33,8 @@ export const BlogCard = styled.div`
 `;
 export const TitleContent = styled.div`
   text-align: center;
-  z-index: 20;
   width: 100%;
+  margin-top: 20px;
 
 `;
 
@@ -72,7 +72,7 @@ export const CardInfo = styled.p`
   color: #e4e6e7;
   font-style: 2rem;
   line-height: 24px;
-  text-align: justify;
+  text-align: left;
   @media ${(props) => props.theme.breakpoints.sm} {
     padding:.3rem
   
@@ -103,8 +103,8 @@ transition: 0.5s;
 
 export const TagList = styled.ul`
 display: flex;
-justify-content: space-around;
-padding: 2rem;
+justify-content: space-evenly;
+padding: 1rem; 
 `
 export const Tag = styled.li`
 color: #d8bfbf;
