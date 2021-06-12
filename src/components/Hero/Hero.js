@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         I am a Software Engineer who likes to build stuff with React, JavaScript and Python
       </SectionText>
-      <Button onClick={()=>{}}>Learn More</Button>
+      <a href="#about"><Button>Learn More</Button></a>
     </LeftSection>
   </Section>
 );
