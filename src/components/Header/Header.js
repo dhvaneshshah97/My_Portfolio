@@ -32,6 +32,7 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
+      Let's Connect
       <SocialIcons href="https://github.com/dhvaneshshah97" target="_blank" rel="noopener noreferrer">
         <AiFillGithub size="3rem" />
       </SocialIcons>
