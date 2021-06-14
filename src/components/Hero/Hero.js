@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         I am a Software Engineer who likes to build stuff with React, JavaScript and Python
       </SectionText>
-      <a href="#about"><Button>Learn More</Button></a>
+      <a href="https://drive.google.com/file/d/1f3aMm5kMiO2XXSv7YcRM1LAOut4ERxBR/view?usp=sharing" target="_blank" rel="noopener noreferrer" ><Button>Learn More</Button></a>
     </LeftSection>
   </Section>
 );
