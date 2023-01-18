@@ -58,5 +58,5 @@ export const TimeLineData = [
   { year: 2018, text: 'Worked as a Software Engineer Intern at MobileFirst Applications', },
   { year: 2019, text: 'Completed Bachelors and started my Master\'s at San Diego State University', },
   { year: 2020, text: 'Build Super exciting Projects and Sharpened my Data Structures and Algorithms', },
-  { year: 2021, text: 'Graduted From San Diego State University', },
+  { year: 2021, text: 'Graduted From SDSU and since then working as full-time Software Engineer at DriveTime', },
 ];

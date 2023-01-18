@@ -50,7 +50,7 @@ const Timeline = () => {
         <li>My passion is building super useful products that can make true impact on people.
           One of my favorites is Google Maps which truly drives my passion of making people's lives easier with the power of Software Engineering. I love brain-storming and solving complex problems. I like to build applications with React.</li>
         <br />
-        <li>My Expertise - React, JavaScript and Python</li>
+        <li>My Expertise - React/Angular, JavaScript and Python</li>
       </SectionText>
       <SectionSubText>My Journey so far</SectionSubText>
       <br />
